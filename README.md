@@ -1,8 +1,7 @@
 matdiction
 ==========
 
-A Dictionary for use in Matlab. It may be useful to find meaning of words while programing inside matlabe
-or for perfroming research natural language processing.
+An advance Dictionary with parts of speech, frequency of use, exmaple usage of the word based on Word Net data base for use in Matlab. It may be useful for perfroming research in natural language processing (NLP).
 
 
 Usage:
@@ -17,3 +16,6 @@ An matlab function dictionary.m is provided that loads the database. Usage of th
 
 meaing(s)= dictionary('word')
 
+* finding the parts of speech (pos) of the word
+ pos = wod2pos('word')
+ returns the pos of the queried word
