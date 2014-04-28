@@ -14,7 +14,7 @@ where the meaning(s) and synonyms of the query 'word'  is returned.
 
 An matlab function dictionary.m is provided that loads the database. Usage of the function
 
-meaing(s)= dictionary('word')
+meaning(s)= dictionary('word')
 
 * finding the parts of speech (pos) of the word
  pos = wod2pos('word')
