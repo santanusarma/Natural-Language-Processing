@@ -1,4 +1,4 @@
-Natural Language Processing Toolbox
+Natural Language Processing Utilities
 ==========
 
 An advance Dictionary with parts of speech, frequency of use, exmaple usage of the word based on Word Net data base for use in Matlab. It may be useful for perfroming research in natural language processing (NLP).
