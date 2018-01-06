@@ -17,5 +17,5 @@ An matlab function dictionary.m is provided that loads the database. Usage of th
 meaning(s)= dictionary('word')
 
 * finding the parts of speech (pos) of the word
- pos = wod2pos('word')
+ pos = word2pos('word')
  returns the pos of the queried word
